@@ -282,3 +282,10 @@ h1{
     position: relative;
 }
 
+.container-form
+{
+    max-width: 500px;
+    margin-left: 10px;
+   
+}
+
