@@ -218,14 +218,7 @@ ul.slick-dots li.slick-active {
     flex-wrap: wrap;
 
 }
-
-
-
-#carrinho{
-    max-width: 900px;
-    margin: auto;
-    padding:0 2%;
-}    
+ 
 
 .produto-curso{
     width: 32%;
@@ -288,4 +281,3 @@ h1{
     margin-left: 10px;
    
 }
-
